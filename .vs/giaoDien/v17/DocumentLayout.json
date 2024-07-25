@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Fpoly\\Summer2024\\Duan1\\giaoDien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8E31A8-59D9-408D-BB13-9553F58E7D16}|giaoDien\\giaoDien.csproj|d:\\fpoly\\summer2024\\duan1\\giaodien\\giaodien\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8E31A8-59D9-408D-BB13-9553F58E7D16}|giaoDien\\giaoDien.csproj|solutionrelative:giaodien\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8E31A8-59D9-408D-BB13-9553F58E7D16}|giaoDien\\giaoDien.csproj|D:\\Fpoly\\Summer2024\\Duan1\\giaoDien\\giaodien\\nh\u00E2n vi\u00EAn.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{CE8E31A8-59D9-408D-BB13-9553F58E7D16}|giaoDien\\giaoDien.csproj|solutionrelative:giaodien\\nh\u00E2n vi\u00EAn.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8E31A8-59D9-408D-BB13-9553F58E7D16}|giaoDien\\giaoDien.csproj|D:\\Fpoly\\Summer2024\\Duan1\\giaoDien\\giaodien\\nh\u00E2n vi\u00EAn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8E31A8-59D9-408D-BB13-9553F58E7D16}|giaoDien\\giaoDien.csproj|solutionrelative:giaodien\\nh\u00E2n vi\u00EAn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8E31A8-59D9-408D-BB13-9553F58E7D16}|giaoDien\\giaoDien.csproj|D:\\Fpoly\\Summer2024\\Duan1\\giaoDien\\giaodien\\nh\u00E2n vi\u00EAn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE8E31A8-59D9-408D-BB13-9553F58E7D16}|giaoDien\\giaoDien.csproj|solutionrelative:giaodien\\nh\u00E2n vi\u00EAn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8E31A8-59D9-408D-BB13-9553F58E7D16}|giaoDien\\giaoDien.csproj|D:\\Fpoly\\Summer2024\\Duan1\\giaoDien\\giaodien\\nh\u00E2n vi\u00EAn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8E31A8-59D9-408D-BB13-9553F58E7D16}|giaoDien\\giaoDien.csproj|solutionrelative:giaodien\\nh\u00E2n vi\u00EAn.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8E31A8-59D9-408D-BB13-9553F58E7D16}|giaoDien\\giaoDien.csproj|D:\\Fpoly\\Summer2024\\Duan1\\giaoDien\\giaodien\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE8E31A8-59D9-408D-BB13-9553F58E7D16}|giaoDien\\giaoDien.csproj|solutionrelative:giaodien\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\Fpoly\\Summer2024\\Duan1\\giaoDien\\giaoDien\\Menu.cs",
+              "RelativeDocumentMoniker": "giaoDien\\Menu.cs",
+              "ToolTip": "D:\\Fpoly\\Summer2024\\Duan1\\giaoDien\\giaoDien\\Menu.cs",
+              "RelativeToolTip": "giaoDien\\Menu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T10:49:47.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nh\u00E2n Vi\u00EAn.resx",
+              "DocumentMoniker": "D:\\Fpoly\\Summer2024\\Duan1\\giaoDien\\giaoDien\\Nh\u00E2n Vi\u00EAn.resx",
+              "RelativeDocumentMoniker": "giaoDien\\Nh\u00E2n Vi\u00EAn.resx",
+              "ToolTip": "D:\\Fpoly\\Summer2024\\Duan1\\giaoDien\\giaoDien\\Nh\u00E2n Vi\u00EAn.resx",
+              "RelativeToolTip": "giaoDien\\Nh\u00E2n Vi\u00EAn.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-13T05:10:32.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nh\u00E2n Vi\u00EAn.cs",
+              "DocumentMoniker": "D:\\Fpoly\\Summer2024\\Duan1\\giaoDien\\giaoDien\\Nh\u00E2n Vi\u00EAn.cs",
+              "RelativeDocumentMoniker": "giaoDien\\Nh\u00E2n Vi\u00EAn.cs",
+              "ToolTip": "D:\\Fpoly\\Summer2024\\Duan1\\giaoDien\\giaoDien\\Nh\u00E2n Vi\u00EAn.cs",
+              "RelativeToolTip": "giaoDien\\Nh\u00E2n Vi\u00EAn.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvygAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T02:40:24.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nh\u00E2n Vi\u00EAn.cs [Design]",
+              "DocumentMoniker": "D:\\Fpoly\\Summer2024\\Duan1\\giaoDien\\giaoDien\\Nh\u00E2n Vi\u00EAn.cs",
+              "RelativeDocumentMoniker": "giaoDien\\Nh\u00E2n Vi\u00EAn.cs",
+              "ToolTip": "D:\\Fpoly\\Summer2024\\Duan1\\giaoDien\\giaoDien\\Nh\u00E2n Vi\u00EAn.cs [Design]",
+              "RelativeToolTip": "giaoDien\\Nh\u00E2n Vi\u00EAn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T02:39:42.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Nh\u00E2n Vi\u00EAn.Designer.cs",
+              "DocumentMoniker": "D:\\Fpoly\\Summer2024\\Duan1\\giaoDien\\giaoDien\\Nh\u00E2n Vi\u00EAn.Designer.cs",
+              "RelativeDocumentMoniker": "giaoDien\\Nh\u00E2n Vi\u00EAn.Designer.cs",
+              "ToolTip": "D:\\Fpoly\\Summer2024\\Duan1\\giaoDien\\giaoDien\\Nh\u00E2n Vi\u00EAn.Designer.cs",
+              "RelativeToolTip": "giaoDien\\Nh\u00E2n Vi\u00EAn.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T02:39:42.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "D:\\Fpoly\\Summer2024\\Duan1\\giaoDien\\giaoDien\\Menu.cs",
+              "RelativeDocumentMoniker": "giaoDien\\Menu.cs",
+              "ToolTip": "D:\\Fpoly\\Summer2024\\Duan1\\giaoDien\\giaoDien\\Menu.cs [Design]*",
+              "RelativeToolTip": "giaoDien\\Menu.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T02:12:05.192Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
